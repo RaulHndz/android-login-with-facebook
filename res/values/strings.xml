@@ -4,5 +4,11 @@
     <string name="app_name">login-with-facebook</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="txtGreeting">Bienvenido</string>
+    <string name="title_activity_main_fragment">MainFragment</string>
+    
+    <string name="app_name">SocialSensei</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="app_id">419792288151459</string>    
 
 </resources>
